@@ -1,7 +1,7 @@
 object Form1: TForm1
   Left = 0
   Top = 0
-  Caption = 'Form1'
+  Caption = 'Clock'
   ClientHeight = 587
   ClientWidth = 731
   Color = clBtnFace
